@@ -2,7 +2,7 @@ wpb_home:
   # Publish all joint states -----------------------------------
   joint_state_controller:
     type: joint_state_controller/JointStateController
-    publish_rate: 20  
+    publish_rate: 20
   
   # Position Controllers ---------------------------------------
   mani_base_position_controller:
